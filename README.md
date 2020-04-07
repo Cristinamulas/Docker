@@ -8,4 +8,4 @@ This repository contains commands for:
 
 - Pushing a Docker image to Google Cloud Registry.
 
-- Runing a Docker container.
+- Runing a Docker container
